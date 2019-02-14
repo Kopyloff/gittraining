@@ -1,0 +1,47 @@
+7fdcd93 HEAD@{0}: commit: deleted index
+87d457e HEAD@{1}: checkout: moving from Kopyloff-patch-1 to master
+d30778d HEAD@{2}: checkout: moving from master to Kopyloff-patch-1
+87d457e HEAD@{3}: pull: Fast-forward
+db3a076 HEAD@{4}: checkout: moving from meta to master
+8c22086 HEAD@{5}: commit: meta tag 2
+db3a076 HEAD@{6}: checkout: moving from master to meta
+db3a076 HEAD@{7}: checkout: moving from featurebranch to master
+5010a33 HEAD@{8}: checkout: moving from master to featurebranch
+db3a076 HEAD@{9}: checkout: moving from 4c85fb7881a1ed2001e8fdaf6efbb2ee203c16c6 to master
+4c85fb7 HEAD@{10}: checkout: moving from master to RELEASE_1
+db3a076 HEAD@{11}: checkout: moving from fb3 to master
+4c85fb7 HEAD@{12}: checkout: moving from master to fb3
+db3a076 HEAD@{13}: merge fb3_broken: Fast-forward
+4c85fb7 HEAD@{14}: checkout: moving from fb3_broken to master
+db3a076 HEAD@{15}: rebase -i (finish): returning to refs/heads/fb3_broken
+db3a076 HEAD@{16}: rebase -i (edit): file4
+09eac43 HEAD@{17}: rebase -i (squash): file2 and file3
+ecd7964 HEAD@{18}: rebase -i (pick): file2
+4c85fb7 HEAD@{19}: rebase -i (start): checkout master
+49e1743 HEAD@{20}: commit: file4
+fbcfcee HEAD@{21}: commit: file3
+57b6fb8 HEAD@{22}: commit: file2
+2f649e3 HEAD@{23}: checkout: moving from master to fb3_broken
+4c85fb7 HEAD@{24}: merge fb3: Fast-forward
+74cc8b5 HEAD@{25}: checkout: moving from fb3 to master
+4c85fb7 HEAD@{26}: rebase finished: returning to refs/heads/fb3
+4c85fb7 HEAD@{27}: rebase: Some changes
+74cc8b5 HEAD@{28}: rebase: checkout master
+a416e60 HEAD@{29}: checkout: moving from master to fb3
+74cc8b5 HEAD@{30}: commit: file1
+6b7be2e HEAD@{31}: checkout: moving from fb3 to master
+a416e60 HEAD@{32}: checkout: moving from fb3_broken to fb3
+2f649e3 HEAD@{33}: checkout: moving from 2f649e3274e1374ae50d2b03c8da88599ced88e8 to fb3_broken
+2f649e3 HEAD@{34}: checkout: moving from fb3 to 2f649e3
+a416e60 HEAD@{35}: commit (amend): Some changes
+2f649e3 HEAD@{36}: commit: some chamges
+6b7be2e HEAD@{37}: checkout: moving from master to fb3
+6b7be2e HEAD@{38}: commit (merge): merged featurebranch2
+e22486a HEAD@{39}: merge featurebranch: Merge made by the 'recursive' strategy.
+9076c7f HEAD@{40}: commit: readme updates
+19f475b HEAD@{41}: checkout: moving from featurebranch2 to master
+4de75ea HEAD@{42}: commit: index.html with body tag
+19f475b HEAD@{43}: checkout: moving from featurebranch to featurebranch2
+5010a33 HEAD@{44}: commit: added index.html
+19f475b HEAD@{45}: checkout: moving from master to featurebranch
+19f475b HEAD@{46}: commit (initial): init commit
